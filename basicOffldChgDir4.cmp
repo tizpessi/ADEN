@@ -1,0 +1,32 @@
+
+
+Processing Reference Log File: basicOffldChgDir4.log
+Checking Test Log File: basicOffldChgDir4.log
+Capacity Check PASSED
+Floor Ticks Check PASSED
+Door Ticks Check PASSED
+Pass Per Tick Check PASSED
+Initial State Check PASSED
+Initial Floor Check PASSED
+Checking Calls:
+All Calls Matched - PASS
+Checking States:
+Error Detected in Processing States:
+Test Log File: Time=74   CurrState=CLOSEDR   PrevState=OFFLD   CurrFloor=3   PrevFloor=3
+Ref Log File:  Time=74   CurrState=BOARD   PrevState=OFFLD   CurrFloor=3   PrevFloor=3
+State check FAILED
+Checking Boards:
+Error Detected in Processing Boards:
+Test Log File: Time=83   NumPass=1   Floor=4   Dir=Up   ID=3
+Ref Log File:  Time=74   NumPass=1   Floor=3   Dir=Up   ID=2
+Board check FAILED
+Checking Arrivals:
+Error Detected in Processing Arrivals:
+Test Log File: Time=93   NumPass=1   Floor=5   ID=3
+Ref Log File:  Time=94   NumPass=1   Floor=5   ID=2
+Arrivals check FAILED
+Checking Skips:
+All Skips Matched - PASS
+Checking GiveUps:
+All GiveUps Matched - PASS
+End of Simulation Check PASSED

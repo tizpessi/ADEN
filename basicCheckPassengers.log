@@ -1,0 +1,7 @@
+INFO    CONFIG:   Capacity=15   Ticks-Floor=5   Ticks-Door=2   Ticks-Passengers=3   CurrState=STOP      CurrFloor=1
+INFO    Time=10   Called=1 Floor=1 Dir=Up   passID=0
+INFO    Time=10   Called=1 Floor=2 Dir=Up   passID=1
+INFO    Time=10   Called=1 Floor=2 Dir=Down   passID=2
+INFO    Time=10   Called=1 Floor=3 Dir=Down   passID=3
+INFO    Time=10   Called=1 Floor=4 Dir=Down   passID=4
+INFO    Time=10   Detected End of Simulation

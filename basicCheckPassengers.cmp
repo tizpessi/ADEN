@@ -1,0 +1,12 @@
+
+
+Processing Reference Log File: basicCheckPassengers.log
+Checking Test Log File: basicCheckPassengers.log
+Capacity Check PASSED
+Floor Ticks Check PASSED
+Door Ticks Check PASSED
+Pass Per Tick Check PASSED
+Initial State Check PASSED
+Initial Floor Check PASSED
+Checking Calls:
+All Calls Matched - PASS
